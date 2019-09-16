@@ -96,7 +96,7 @@
       </div>
       <div class="comuln colum-2">
         <img src="http://i2.sinaimg.cn/fashion/cr/2014/0910/2163945590.jpg" class="thumbnail" />
-        <p>都会过去</p>
+        <p>都会过去ok</p>
       </div>
     </div>
   </div>
